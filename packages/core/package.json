@@ -21,5 +21,9 @@
   },
   "dependencies": {
     "@ifer-group/utils": "^0.0.2"
-  }
+  },
+  "gitHead": "167c40532bd7669a972fe73a4211492672991cb9",
+  "publishConfig": {
+    "access": "public"
+  }	
 }
