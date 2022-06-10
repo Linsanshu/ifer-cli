@@ -1,6 +1,6 @@
 {
   "name": "@ifer-group/utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "a-lin <kidult83@163.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "gitHead": "167c40532bd7669a972fe73a4211492672991cb9",
   "publishConfig": {
     "access": "public"
-  }	
+  }
 }

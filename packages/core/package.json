@@ -1,6 +1,6 @@
 {
   "name": "@ifer-group/core",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "ifer-cli core",
   "author": "a-lin <kidult83@163.com>",
   "homepage": "",
@@ -20,10 +20,10 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@ifer-group/utils": "^0.0.2"
+    "@ifer-group/utils": "^0.0.3"
   },
   "gitHead": "167c40532bd7669a972fe73a4211492672991cb9",
   "publishConfig": {
     "access": "public"
-  }	
+  }
 }
