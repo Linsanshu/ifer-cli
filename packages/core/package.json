@@ -1,6 +1,6 @@
 {
   "name": "@ifer-group/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ifer-cli core",
   "author": "a-lin <kidult83@163.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@ifer-group/utils": "^0.0.1"
+    "@ifer-group/utils": "^0.0.2"
   }
 }
